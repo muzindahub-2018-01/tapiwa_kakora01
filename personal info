@@ -1,0 +1,112 @@
+Last login: Mon Mar 26 11:48:06 on ttys000
+Mables-MacBook-Pro:~ Admin$ python3
+Python 3.6.4 (v3.6.4:d48ecebad5, Dec 18 2017, 21:07:28) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> name =''munyaradzi kakora'
+  File "<stdin>", line 1
+    name =''munyaradzi kakora'
+                     ^
+SyntaxError: invalid syntax
+>>> del name
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'name' is not defined
+>>> name ='munyaradzi kakora'
+>>> age =19
+>>> favourite fruit ='banana'
+  File "<stdin>", line 1
+    favourite fruit ='banana'
+                  ^
+SyntaxError: invalid syntax
+>>> del favourite fruit
+  File "<stdin>", line 1
+    del favourite fruit
+                      ^
+SyntaxError: invalid syntax
+>>> favourite_fruit ='peach'
+>>> exit()
+Mables-MacBook-Pro:~ Admin$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mables-MacBook-Pro:~ Admin$ python3
+Python 3.6.4 (v3.6.4:d48ecebad5, Dec 18 2017, 21:07:28) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> name = 'munyaradzi kakora'
+>>> age =19
+>>> favourite_fruit ='grapes'
+>>> hobbies = ['sleeping', 'watching television', 'drinking']
+>>> hobbies + ['playing tennis']
+['sleeping', 'watching television', 'drinking', 'playing tennis']
+>>> middle name = ''tapiwa'
+  File "<stdin>", line 1
+    middle name = ''tapiwa'
+              ^
+SyntaxError: invalid syntax
+>>> name ='tapiwa'
+>>> delname
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'delname' is not defined
+>>> surname ='tapiwa'
+>>> name ='munyaradzi kakora'
+>>> surname + name
+'tapiwamunyaradzi kakora'
+>>> age*2
+38
+>>> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
